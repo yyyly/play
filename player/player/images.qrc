@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ToolbarVoicechange.png</file>
+        <file>images/ToolbarStop.png</file>
+        <file>images/ToolbarSilence.png</file>
+        <file>images/ToolbarRecede.png</file>
+        <file>images/ToolbarPlayback.png</file>
+        <file>images/ToolbarPlay.png</file>
+        <file>images/ToolbarPause.png</file>
+        <file>images/close.png</file>
+    </qresource>
+</RCC>

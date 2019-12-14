@@ -1,0 +1,12 @@
+#ifndef DHPLAYCORE_GLOBAL_H
+#define DHPLAYCORE_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(DHPLAYCORE_LIBRARY)
+#  define DHPLAYCORE_EXPORT Q_DECL_EXPORT
+#else
+#  define DHPLAYCORE_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DHPLAYCORE_GLOBAL_H
